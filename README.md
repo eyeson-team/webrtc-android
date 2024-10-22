@@ -20,3 +20,5 @@ dependencies {
 	implementation 'com.github.eyeson-team:webrtc-android:VERSION'
 }
 ```
+# Desugaring 
+Due to the use of OpenJDK 17 [desugaring](https://developer.android.com/studio/write/java11-nio-support-table) may be necessary.
